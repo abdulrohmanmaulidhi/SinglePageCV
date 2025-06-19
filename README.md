@@ -10,12 +10,12 @@ A responsive, single-page online CV/portfolio showcasing my skills and experienc
 
 ## Key Features
 
-- ✅ Fully responsive design (desktop → mobile)
-- ♿ Semantic HTML for accessibility
-- 🎨 Clean, professional CSS styling
-- 🔍 SEO-optimized with meta tags
-- 📱 Social media ready (Open Graph tags)
-- � Custom favicon
+- Fully responsive design (desktop → mobile)
+- Semantic HTML for accessibility
+- Clean, professional CSS styling
+- SEO-optimized with meta tags
+- Open Graph tags
+- Custom favicon
 
 ## Tech Stack
 
@@ -58,9 +58,9 @@ To personalize this template:
 
 ## Connect With Me
 
-- 💼 LinkedIn: [abdulrohmanmaulidhi](https://www.linkedin.com/in/abdulrohmanmaulidhi/)
-- 💻 GitHub: [abdulrohmanmaulidhi](https://github.com/abdulrohmanmaulidhi)
-- ✉️ Email: rohmanmaulidhi@gmail.com
+- LinkedIn: [abdulrohmanmaulidhi](https://www.linkedin.com/in/abdulrohmanmaulidhi/)
+- GitHub: [abdulrohmanmaulidhi](https://github.com/abdulrohmanmaulidhi)
+- Email: rohmanmaulidhi@gmail.com
 
 ## Referensi Project
 
