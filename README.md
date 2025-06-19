@@ -40,6 +40,7 @@ SinglePageCV/
 
 1. **Live Version**:  
    Visit [https://abdulrohmanmaulidhi.github.io/SinglePageCV/](https://abdulrohmanmaulidhi.github.io/SinglePageCV/)
+   Or Visit [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 2. **Local Setup**:
    ```bash
