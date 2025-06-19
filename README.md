@@ -40,7 +40,6 @@ SinglePageCV/
 
 1. **Live Version**:  
    Visit [https://abdulrohmanmaulidhi.github.io/SinglePageCV/](https://abdulrohmanmaulidhi.github.io/SinglePageCV/)
-   Or Visit [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 2. **Local Setup**:
    ```bash
@@ -62,3 +61,7 @@ To personalize this template:
 - 💼 LinkedIn: [abdulrohmanmaulidhi](https://www.linkedin.com/in/abdulrohmanmaulidhi/)
 - 💻 GitHub: [abdulrohmanmaulidhi](https://github.com/abdulrohmanmaulidhi)
 - ✉️ Email: rohmanmaulidhi@gmail.com
+
+## Referensi Project
+
+https://roadmap.sh/projects/single-page-cv
